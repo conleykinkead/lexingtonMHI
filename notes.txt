@@ -1,0 +1,12 @@
+NOTES
+
+https://data.census.gov/table/ACSST5Y2021.S1903?t=Income%20and%20Poverty&g=050XX00US21067,21067$1400000&tid=ACSST5Y2020.S1903
+https://www.census.gov/cgi-bin/geo/shapefiles/index.php TIGER/Line
+https://www.bls.gov/data/inflation_calculator.htm
+	2020 x 1.09
+	2021 x 1.07
+	
+	2019 x 1.12
+	2018 x 1.13
+	2017 x 1.16
+	
