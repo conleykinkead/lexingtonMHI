@@ -1,7 +1,7 @@
 {
-    "title": "Title of Project",
-    "info": "Add info about project",
-    "coordinates": [38, -84.5],
-    "author": "Do you want to add your name?",
-    "link": "http://newmapsplus.uky.edu"
+    "title": "Lexington/Fayette County, KY Median Household Income, 2017-2022",
+    "info": "This map shows median household income (MHI) in all Lexington/Fayette County census tracts for the years 2017-2022, with a slider bar allowing the user to toggle between years, and hovering tooltips showing the adjusted MHI for each census tract. Data is from American Community Survey 5-year estimates, and MHI was adjusted to 2022 dollars for all years except 2022 using the Bureau of Labor Statistic Inflation Calculator.",
+    "coordinates": [38.0283, -84.45],
+    "author": "Conley Kinkead",
+    "link": "http://conleykinkead.githib.io"
 }
